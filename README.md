@@ -23,4 +23,4 @@ do-what-it-says:
 
 When called, LIRI will take the text inside of a text file and use it to call on one of the 3 previous commands using the fs Node package to read the text file. 
 
-To see my code, visit my repo at https://github.com/ksmills88/liri-node-app
+To see my code, visit my repository at https://github.com/ksmills88/liri-node-app
